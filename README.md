@@ -1,4 +1,4 @@
-The following is a fork of Zhoug's original DungeonAI. There are a number of changes, including the use of an API key instead of a session key which simplifies the configuration, but will incur costs on the API.
+The following is a fork of Zhoug0x's original DungeonAI. There are a number of changes, including the use of an API key instead of a session key which simplifies the configuration, but will incur costs on the API.
 
 I also modified the hardcoded variables to include prompts for responses to GENDER / RACE / CLASS to allow the user to properly choose. The prompts are still the same and untouched, but they can be configured.
 
