@@ -1,0 +1,24 @@
+{
+  "name": "DungeonMasterGPT",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "AI Dungeon Master, forked from Dungeon-AI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ai",
+    "d&d",
+    "chatGPT",
+    "openai"
+  ],
+  "author": "Phocito1",
+  "license": "MIT",
+  "dependencies": {
+    "chatgpt": "^5.2.2",
+    "dotenv": "^16.0.3",
+    "inquirer": "^9.1.4",
+    "openai-authenticator": "^0.0.3"
+  }
+}
